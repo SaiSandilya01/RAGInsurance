@@ -1,0 +1,902 @@
+[
+  {
+    "id": "policy_1",
+    "title": "CareSecure Health Plus - Plan #1001",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1001\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_2",
+    "title": "HomeShield Platinum Plan - Plan #1002",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1002\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_3",
+    "title": "HomeShield Platinum Plan - Plan #1003",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1003\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_4",
+    "title": "SafeRide Motor Protect - Plan #1004",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1004\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_5",
+    "title": "LifeSecure Term Shield - Plan #1005",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1005\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_6",
+    "title": "SafeRide Motor Protect - Plan #1006",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1006\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_7",
+    "title": "CareSecure Health Plus - Plan #1007",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1007\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_8",
+    "title": "SafeRide Motor Protect - Plan #1008",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1008\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_9",
+    "title": "CareSecure Health Plus - Plan #1009",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1009\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_10",
+    "title": "CareSecure Health Plus - Plan #1010",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1010\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_11",
+    "title": "GlobeTrek Travel Guard - Plan #1011",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1011\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_12",
+    "title": "GlobeTrek Travel Guard - Plan #1012",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1012\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_13",
+    "title": "CareSecure Health Plus - Plan #1013",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1013\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_14",
+    "title": "CareSecure Health Plus - Plan #1014",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1014\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_15",
+    "title": "LifeSecure Term Shield - Plan #1015",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1015\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_16",
+    "title": "GlobeTrek Travel Guard - Plan #1016",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1016\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_17",
+    "title": "CareSecure Health Plus - Plan #1017",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1017\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_18",
+    "title": "GlobeTrek Travel Guard - Plan #1018",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1018\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_19",
+    "title": "HomeShield Platinum Plan - Plan #1019",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1019\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_20",
+    "title": "CareSecure Health Plus - Plan #1020",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1020\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_21",
+    "title": "CareSecure Health Plus - Plan #1021",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1021\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_22",
+    "title": "GlobeTrek Travel Guard - Plan #1022",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1022\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_23",
+    "title": "SafeRide Motor Protect - Plan #1023",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1023\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_24",
+    "title": "LifeSecure Term Shield - Plan #1024",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1024\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_25",
+    "title": "LifeSecure Term Shield - Plan #1025",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1025\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_26",
+    "title": "CareSecure Health Plus - Plan #1026",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1026\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_27",
+    "title": "GlobeTrek Travel Guard - Plan #1027",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1027\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_28",
+    "title": "GlobeTrek Travel Guard - Plan #1028",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1028\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_29",
+    "title": "SafeRide Motor Protect - Plan #1029",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1029\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_30",
+    "title": "SafeRide Motor Protect - Plan #1030",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1030\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_31",
+    "title": "SafeRide Motor Protect - Plan #1031",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1031\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_32",
+    "title": "SafeRide Motor Protect - Plan #1032",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1032\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_33",
+    "title": "CareSecure Health Plus - Plan #1033",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1033\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_34",
+    "title": "HomeShield Platinum Plan - Plan #1034",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1034\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_35",
+    "title": "CareSecure Health Plus - Plan #1035",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1035\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_36",
+    "title": "HomeShield Platinum Plan - Plan #1036",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1036\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_37",
+    "title": "CareSecure Health Plus - Plan #1037",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1037\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_38",
+    "title": "CareSecure Health Plus - Plan #1038",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1038\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_39",
+    "title": "CareSecure Health Plus - Plan #1039",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1039\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_40",
+    "title": "LifeSecure Term Shield - Plan #1040",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1040\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_41",
+    "title": "CareSecure Health Plus - Plan #1041",
+    "type": "Health Insurance",
+    "max_benefit": "\u20b910,00,000",
+    "coverage": [
+      "in-patient hospitalization expenses",
+      "pre and post hospitalization (30 and 60 days respectively)",
+      "day-care procedures",
+      "ambulance charges"
+    ],
+    "conditions": [
+      "Pre-existing diseases covered after 2 years",
+      "Co-payment of 10% for insured above 60 years",
+      "Free annual health check-ups included"
+    ],
+    "content": "Policy Name: CareSecure Health Plus\nPlan ID: 1041\nCategory: Health Insurance\n\nMaximum Benefit: \u20b910,00,000\n\nCoverage Includes:\n- in-patient hospitalization expenses\n- pre and post hospitalization (30 and 60 days respectively)\n- day-care procedures\n- ambulance charges\n\nKey Conditions:\n- Pre-existing diseases covered after 2 years\n- Co-payment of 10% for insured above 60 years\n- Free annual health check-ups included\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_42",
+    "title": "HomeShield Platinum Plan - Plan #1042",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1042\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_43",
+    "title": "HomeShield Platinum Plan - Plan #1043",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1043\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_44",
+    "title": "HomeShield Platinum Plan - Plan #1044",
+    "type": "Home Insurance",
+    "max_benefit": "\u20b920,00,000",
+    "coverage": [
+      "fire and flood damage",
+      "earthquake protection",
+      "burglary and theft cover",
+      "alternate accommodation expenses"
+    ],
+    "conditions": [
+      "Policy only for properties older than 5 years",
+      "Contents cover up to \u20b95,00,000",
+      "Premium discounts for security systems"
+    ],
+    "content": "Policy Name: HomeShield Platinum Plan\nPlan ID: 1044\nCategory: Home Insurance\n\nMaximum Benefit: \u20b920,00,000\n\nCoverage Includes:\n- fire and flood damage\n- earthquake protection\n- burglary and theft cover\n- alternate accommodation expenses\n\nKey Conditions:\n- Policy only for properties older than 5 years\n- Contents cover up to \u20b95,00,000\n- Premium discounts for security systems\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_45",
+    "title": "LifeSecure Term Shield - Plan #1045",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1045\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_46",
+    "title": "LifeSecure Term Shield - Plan #1046",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1046\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_47",
+    "title": "SafeRide Motor Protect - Plan #1047",
+    "type": "Auto Insurance",
+    "max_benefit": "\u20b95,00,000",
+    "coverage": [
+      "third-party liability cover",
+      "own damage protection",
+      "accident-related injuries",
+      "vehicle theft"
+    ],
+    "conditions": [
+      "Cashless repairs at network garages",
+      "Zero depreciation add-on optional",
+      "Applicable only to private vehicles"
+    ],
+    "content": "Policy Name: SafeRide Motor Protect\nPlan ID: 1047\nCategory: Auto Insurance\n\nMaximum Benefit: \u20b95,00,000\n\nCoverage Includes:\n- third-party liability cover\n- own damage protection\n- accident-related injuries\n- vehicle theft\n\nKey Conditions:\n- Cashless repairs at network garages\n- Zero depreciation add-on optional\n- Applicable only to private vehicles\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_48",
+    "title": "LifeSecure Term Shield - Plan #1048",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1048\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_49",
+    "title": "GlobeTrek Travel Guard - Plan #1049",
+    "type": "Travel Insurance",
+    "max_benefit": "\u20b915,00,000",
+    "coverage": [
+      "medical emergencies abroad",
+      "trip cancellations",
+      "baggage loss",
+      "passport recovery"
+    ],
+    "conditions": [
+      "Policy valid for trips up to 90 days",
+      "Claims require valid proof of travel and loss",
+      "Emergency medical evacuation covered"
+    ],
+    "content": "Policy Name: GlobeTrek Travel Guard\nPlan ID: 1049\nCategory: Travel Insurance\n\nMaximum Benefit: \u20b915,00,000\n\nCoverage Includes:\n- medical emergencies abroad\n- trip cancellations\n- baggage loss\n- passport recovery\n\nKey Conditions:\n- Policy valid for trips up to 90 days\n- Claims require valid proof of travel and loss\n- Emergency medical evacuation covered\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  },
+  {
+    "id": "policy_50",
+    "title": "LifeSecure Term Shield - Plan #1050",
+    "type": "Life Insurance",
+    "max_benefit": "\u20b91,00,00,000",
+    "coverage": [
+      "death benefit",
+      "terminal illness rider",
+      "accidental death cover",
+      "waiver of premium on disability"
+    ],
+    "conditions": [
+      "Medical test required for sum assured above \u20b950L",
+      "Policy term from 10 to 40 years",
+      "Premium waiver only on total permanent disability"
+    ],
+    "content": "Policy Name: LifeSecure Term Shield\nPlan ID: 1050\nCategory: Life Insurance\n\nMaximum Benefit: \u20b91,00,00,000\n\nCoverage Includes:\n- death benefit\n- terminal illness rider\n- accidental death cover\n- waiver of premium on disability\n\nKey Conditions:\n- Medical test required for sum assured above \u20b950L\n- Policy term from 10 to 40 years\n- Premium waiver only on total permanent disability\n\nThis policy offers comprehensive protection based on individual or family needs. Please review the policy brochure and disclosures before purchase."
+  }
+]
